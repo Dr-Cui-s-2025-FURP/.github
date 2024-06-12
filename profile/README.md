@@ -33,6 +33,7 @@ Below are some valuable resources and documentation to help you get acquainted w
 ### Week 1-2
 
 **Autonomous Mobile Robots (AMR) Group**
+[subtopics note](https://sugared-find-884.notion.site/FURP-FYP-f780211c77934e4192303e9706d39428)
 All team members are expected to go through the Isaac Sim tutorials.
 Individuals should try to replicate the tutorial results to gain hands-on experience with the simulation environment.
 Familiar with ROS (Robot Operating System).
