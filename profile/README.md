@@ -60,11 +60,20 @@ For neural network code implementation work, we recommend using PyTorch (with CU
 3. Data Collection
   - Begin the practical work of collecting data by setting up sensors and ensuring time synchronization among multiple sensors.
   - Document the setup process, data collection methodology, and any preliminary results.
+  - Data collection in simulator
+   1. Design a virtual room within the simulation environment that will serve as the testbed for the motion capture system.
+   2. Place a sufficient number of cameras around the room to ensure full coverage of the space.
+   3. Place an object in the room that will be the subject of measurement.
+   4. Add multiple sensors, including cameras and radars, around the object to capture data from different angles and perspectives.
+   5. Begin collecting preliminary data and ensure the system is correctly capturing the necessary information.
+      
+  Example:
+  ![image](https://github.com/Dr-Cui-s-FURP-Project/.github/assets/31816901/3ad32255-fe78-4cd7-99ad-73ff5aac6b08)
 Lab Work Requirement:
 - Some aspects of data collection will require access to the physical lab environment.
 - Ensure you schedule lab time in advance to perform the necessary experiments and data collection sessions.
 
- 
+
 ## :raising_hand: Contributing
 Please create a repo in our GitHub organization, naming your name + 'weekly report', then write an one-page learning note per week.
 
