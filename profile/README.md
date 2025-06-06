@@ -1,8 +1,7 @@
 
-# :robot: Dr. Cui's FURP Project (Spring 2025)
+# :robot: Dr. Cui's FURP Project (2025)
 Research and Development of AMR Fleet Meta-Universe Simulator & Marker-Free 6D Motion Capture System 
 
-## :gear: [3D Reconstruction of Point Cloud to Mechanical Drawing STEP](https://github.com/Dr-Cui-s-2025-FURP/3D-reconstruction-of-point-cloud-to-mechanical-drawing-STEP)
 ## :gear: [AMR Robot Vision-Based Pedestrian Perception](https://github.com/Dr-Cui-s-2025-FURP/AMR-robot-pedestrian-perception)
 ## :gear: [VRP Problem Combining UAVs and Autonomous Vehicles](https://github.com/Dr-Cui-s-2025-FURP/VRP-Problem-Combining-UAVs-and-Autonomous-Vehicles)
  
