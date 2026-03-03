@@ -1,7 +1,7 @@
 # 🤖 Dr. Cui's FURP Research Group (2026)
 
 > **FOSE Undergraduate Research Project (FURP)**
-> School of Engineering | Artificial Intelligence, Robotics, and Operations Research
+> School of Computer Science | Artificial Intelligence, Robotics, and Operations Research
 
 Welcome to the 2026 FURP GitHub Organization for Dr. Cui's research group! This year, our lab focuses on cutting-edge intersections between **Autonomous Mobile Robots (AMRs), Reinforcement Learning, and Next-Generation Logistics Optimization**. 
 
